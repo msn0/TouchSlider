@@ -1,0 +1,24 @@
+{
+  "name": "TouchSlider",
+  "version": "1.0.0",
+  "authors": [
+    "Michał Jezierski <ambinanitelo@gmail.com>"
+  ],
+  "description": "Javascript touch control slider",
+  "main": "jquery.touchslider.js",
+  "keywords": [
+    "touch",
+    "slider",
+    "javascript",
+    "showcase",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
